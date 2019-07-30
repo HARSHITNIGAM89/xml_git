@@ -13,7 +13,7 @@ public class program2 {
 			
 			driver.get("https://plus.com.sg/apply/banking/plus-savings-account");
 			
-			System.out.println("plus");
+			System.out.println("plus_1");
 }
 
 }
